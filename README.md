@@ -25,3 +25,6 @@ Features:
 * Clean, multi-page dashboard design suitable for business insights
 
 Screenshot:
+![Alt text]()
+![Alt text]()
+![Alt text]()
