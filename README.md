@@ -25,6 +25,6 @@ Features:
 * Clean, multi-page dashboard design suitable for business insights
 
 Screenshot:
-![Alt text]()
-![Alt text]()
-![Alt text]()
+![Alt text](https://github.com/Shivani96474/Housing-dashboard/blob/main/Page1.png)
+![Alt text](https://github.com/Shivani96474/Housing-dashboard/blob/main/Page%202.png)
+![Alt text](https://github.com/Shivani96474/Housing-dashboard/blob/main/Page%203.png)
